@@ -2,7 +2,7 @@
 
 ### Step 1:  Begin with these steps to repository setup:
 
-1. By now you have followed the link to create your assignment repository at https://classroom.github.com/classrooms/55804222-intro-graphics-master-f19-classroom-1. Please use this link once as it will create an repository we will not check for submissions if you use it multiple times. The repository name should lool like **a0-githubusername**. Any others will get removed.
+1. By now you have followed the link to create your assignment repository at https://classroom.github.com/classrooms/55804222-intro-graphics-master-f19-classroom-1. Please use this link once as it will create an repository we will not check for submissions if you use it multiple times. The repository name should lool like **a1-githubusername**. Any others will get removed.
 
 2. As part of this process you will also receive an invite from GitHub to join the class organization which is where all of your class assignments and term project will live.
    * You should also be sure to setup your local git environment and ssh keys to work with GitHub.
@@ -10,7 +10,7 @@
 3. Once your repository is created you will have a copy of the assignment template in your github repository. Now you can clone the repository onto your local computer using the following command. Be sure do execute this command from the directory you wish to locate your work.
 
 ```bash
-$ git clone git@github.com:intro-graphics-master-F19/a0-githubusername.git
+$ git clone git@github.com:intro-graphics-master-F19/a1-githubusername.git
 ```
 
 4. You can now follow the remaining steps of the assignment.
